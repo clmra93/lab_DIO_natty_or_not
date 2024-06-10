@@ -23,5 +23,5 @@ A partir do resultado fornecido, solicitei que fosse informada as fontes de onde
 Selecionei as imagens para o e-book, e criei um documento utilizando o Microsoft Word, onde coloquei as imagens selecionadas, e os textos gerados pela IA.
 
 ## 🚀 Resultados
-[LINK PARA O EBOOK AQUI]()
+[LINK PARA O EBOOK AQUI](Ebook.pdf)
 

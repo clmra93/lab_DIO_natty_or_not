@@ -17,9 +17,9 @@ Também utilizando a IA, foi criado uma lista com as principais referências de 
 Microsoft Word
 
 ## 🧐 Processo de Criação
-Primeiro acessei o Leonardo AI, e solicitei que fossem geradas imagens baseadas em objetos e coisas simples.
-Após, acessei o ChatGPT, e solicitei que fosse explicada a historia da IA Generativa, e sua evolução na criação de imagens.
-A partir do resultado fornecido, solicitei que fosse informada as fontes de onde as informações poderiam ser confirmadas.
+Primeiro acessei o Leonardo AI, e solicitei que fossem geradas imagens baseadas em objetos e coisas simples. Fiz a solicitação em Inglês para um melhor resultado no desempenho da IA.
+Após, acessei o ChatGPT, e solicitei que fosse explicada a historia da IA Generativa, desde a sua criação e sua evolução na criação de imagens.
+A partir do resultado fornecido, solicitei que fosse informada as fontes de onde as informações fornecidas anteriormente pudessemm ser confirmadas.
 Selecionei as imagens para o e-book, e criei um documento utilizando o Microsoft Word, onde coloquei as imagens selecionadas, e os textos gerados pela IA.
 
 ## 🚀 Resultados

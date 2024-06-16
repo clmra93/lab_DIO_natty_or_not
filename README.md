@@ -1,7 +1,7 @@
 # lab_DIO_natty_or_not
 Repositório para projeto de lab da DIO, Natty or not.
 
-# Colocando o ChatGPT para trabalhar ;)
+# Colocando o ChatGPT para trabalhar 😁
 
 ## 📒 Descrição
 Neste projeto, criei um ebook com imagens e texto, gerados por IA.
